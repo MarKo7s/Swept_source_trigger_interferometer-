@@ -7,6 +7,6 @@ LOAD THE FIRMWIRE INTO PSOC:
 
 PYTHON INTERFACE:
 4)Use trigger.py to comunicate through serial port with the board and change trigger count.
-Example of communication: in Trigger_PSOC_SerialCOM_example.ipynb 
+Example of communication: in trigger_example.ipynb 
 
 NOTE: Baudrate of the serial port is already configured to 115200bps, when trigger object is created just pass the COM used.
