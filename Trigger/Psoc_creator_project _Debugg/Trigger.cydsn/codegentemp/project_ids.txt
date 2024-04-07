@@ -1,0 +1,6 @@
+C:\LAB\Coding\Python\Trigger\Psoc_creator_project _Debugg\Trigger.cydsn\Trigger.cyprj|3fd69175-ae5b-4a3a-8b57-9475d2831323
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|19aeb283-1804-4069-a5bd-1f527cbc0960
+C:\Users\MODELAB-LP11c\Documents\PSoC Creator\4.3\Downloads ( 4.3).cylib\Downloads ( 4.3).cyprj|aa743e9c-055f-4bce-ba32-03ee94db388c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|b01b46dd-36dd-423c-87a8-25107c8da45c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|cd7fb3a2-4536-4bef-b657-48af528bdbf2
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|447261a8-9808-4afe-a997-3fbf1cde1e22
