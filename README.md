@@ -1,6 +1,6 @@
 # SWEPT SOURCE INTERFEROMETER CARMERA TRIGGER:
 
-![alt text](https://github.com/MarKo7s/swept-source-trigger-interferometer/blob/release/images/swept_source.pdf)
+![alt text](images/swept_source_trigger.png)
 
 # PCB SCHEMATICS:
 Schematics avaliable in Autodesk Eagle : Trigger/Eagle_project/Trigger_PSCOS5LP
