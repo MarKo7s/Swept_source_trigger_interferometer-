@@ -1,6 +1,6 @@
 # SWEPT SOURCE INTERFEROMETER CARMERA TRIGGER:
 
-![alt text](images/swept_source_trigger.png)
+![alt text](images/swept_source_trigger_white.png)
 
 # PCB SCHEMATICS:
 Schematics avaliable in Autodesk Eagle : Trigger/Eagle_project/Trigger_PSCOS5LP
@@ -17,3 +17,5 @@ Schematics avaliable in Autodesk Eagle : Trigger/Eagle_project/Trigger_PSCOS5LP
 Example of communication: in trigger_example.ipynb 
 
 NOTE: Baudrate of the serial port is already configured to 115200bps, when trigger object is created just pass the COM used.
+
+For more info refer to PhD thesis ... (whenever avaliable)
